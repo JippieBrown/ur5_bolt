@@ -9,7 +9,7 @@ The framework is designed and prepared for screwing tasks meanning the simulated
 [Launch example aplication](#launch-example-aplication)  
 
 ## About
-
+This Fork will change the Task from unscrewing to fitting in a bolt.
 
 ## Installation
 Install ROS Kinetic following [this guide](http://wiki.ros.org/kinetic/Installation/Ubuntu) from the ROS wiki.  
