@@ -67,6 +67,6 @@ roslaunch rl_moveit_config moveit_planning_execution.launch
 
 Now the framework is ready to be used. In order to launch the example aplication run the following python script.
 ```
-python  ~/catkin_ws/src/rl_project/rl_gym/simple_loop.py
+python  ~/catkin_ws/src/ur5_openai/rl_gym/simple_loop.py
 ```
 You shold now be running a simple Q-learning algorithm 
